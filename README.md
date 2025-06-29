@@ -37,8 +37,8 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Email: <a href="mailto:mnstudios@example.com">mnstudios@example.com</a></p>
-    <p>Phone: +267 71 234 567</p>
+    <p>Email: <a href="mailto:mnstudios25@gmail.com">mnstudios25@gmail.comcom</a></p>
+    <p>Phone: +267 76722081</p>
     <p>Follow us on social media: @mnstudios</p>
   </section>
 
